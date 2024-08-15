@@ -358,7 +358,7 @@ apiServer:
   # 舔狗日记API
   dogApi: 'https://apis.tianapi.com/tiangou/index?key={}'
   # 摸鱼日记API
-  fishApi: 'https://api.vvhan.com/api/moyu'
+  fishApi: 'https://api.j4u.ink/v1/store/redirect/moyu/calendar/today.png'
   # 疯狂星期四文案Api
   kfcApi: 'https://api.pearktrue.cn/api/kfc'
   # Cmd5解密Api配置
